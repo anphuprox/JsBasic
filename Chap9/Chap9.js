@@ -4,10 +4,7 @@ console.log(`first item:`,a[0])
 let family=[
 {
     name:'eric',
-
 },
 {name:'monica'}
-
 ]
-
 console.log(family)
